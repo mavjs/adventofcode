@@ -1,4 +1,4 @@
-use std::{collections::HashMap, env};
+use std::env;
 
 const EXAMPLE_INPUT: &str = include_str!("../example.txt");
 const INPUT: &str = include_str!("../input.txt");
